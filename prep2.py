@@ -1,0 +1,6 @@
+style = input('Eye style:\n')
+print()
+print("|||||||")
+print("| " + style, style + " |")
+print("|  _  |")
+print(" -----")
